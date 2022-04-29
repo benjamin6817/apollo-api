@@ -1,0 +1,8 @@
+{
+  "name": "apollo-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benjamin6817/apollo-api.git",
+  "author": "Ben Easterling <beneasterling25@gmail.com>",
+  "license": "MIT"
+}
